@@ -10,6 +10,8 @@ Please read the [blog](https://medium.com/@rangavamsi5/implementing-a-simple-art
 # Create and activate new virtual environment (optional)
 python -m venv v1
 source v1/bin/activate
+# To deactivate virtual environment v1
+deactivate
 # Install requirements
 pip install -r requirements.txt
 ```
